@@ -1,0 +1,3 @@
+# Hydration Mismatch Error in Next.js 15
+
+This repository demonstrates a hydration mismatch error in Next.js 15 when using a simple `div` element.  The error occurs because the client-side rendering (CSR) and server-side rendering (SSR) outputs do not match.  This can be caused by various reasons, including differences in data fetching or unexpected changes during the rendering process.  The solution demonstrates a strategy to mitigate the mismatch.
